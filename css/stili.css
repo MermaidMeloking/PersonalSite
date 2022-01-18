@@ -1,0 +1,91 @@
+/**{
+font-family: 'Dongle', sans-serif;
+
+font-family: 'Dr Sugiyama', cursive;
+
+font-family: 'Fira Code', monospace;
+
+font-family: 'Merriweather', serif;}
+*/
+
+a{color:#5E454B;text-decoration:underline;}
+body{
+  margin:0;
+  text-align:center;
+  background-color:#DED9C4;
+}
+
+p{
+  font-family: 'Dongle', sans-serif;
+  font-size:1.2em;
+}
+
+hr{
+  border-style:dotted;
+  border-bottom-style:hidden;
+  width:3%;
+  border-width:5px;
+}
+
+.top>*{
+  margin: 0;
+}
+.skill-image{
+  width:10%;
+}
+
+.profile-pic{
+  width:15%;
+  padding:0.5em;
+  display:inline-block;
+}
+
+.profile-pic-caption{
+  display:inline-block;
+  position:relative;
+  bottom:3.2em;
+  font-size:1.5em;
+}
+
+.top{
+  background-color:#89B5AF;
+}
+.undertitle{
+  font-family: 'Fira Code', monospace;
+  font-size:0.8em;
+  color:#5E454B;
+}
+.title{
+  font-family: 'Dr Sugiyama', cursive;
+  font-size:2em;
+  color:#5E454B;
+}
+.top_cloud{
+  position:absolute;
+  right:25%;
+  top:15%;
+  width:10%;
+
+
+}
+
+.bot_cloud{
+  position:absolute;
+  left:25%;
+  top:30%;
+  width:10%;
+}
+
+
+.pro{
+  color:#0C4271;
+}
+
+.contatti{
+  background-color:#D0CAB2;
+  color:#5E454B;
+}
+
+.mountain{
+  width:60%;
+}
